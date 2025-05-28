@@ -1,0 +1,68 @@
+Alcohol Detection and Engine Locking System Simulation Output
+--------------------------------------------------------------
+
+[INFO] System Initialized.
+[INFO] Engine control active on Port 1 (P1).
+
+Cycle 1:
+Alcohol Level: 07
+Status: 🔓 Engine UNLOCKED (Safe to drive)
+
+Cycle 2:
+Alcohol Level: 14
+Status: 🔓 Engine UNLOCKED (Safe to drive)
+
+Cycle 3:
+Alcohol Level: 21
+Status: 🔓 Engine UNLOCKED (Safe to drive)
+
+Cycle 4:
+Alcohol Level: 28
+Status: 🔓 Engine UNLOCKED (Safe to drive)
+
+Cycle 5:
+Alcohol Level: 35
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 6:
+Alcohol Level: 42
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 7:
+Alcohol Level: 49
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 8:
+Alcohol Level: 56
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 9:
+Alcohol Level: 63
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 10:
+Alcohol Level: 70
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 11:
+Alcohol Level: 77
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 12:
+Alcohol Level: 84
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 13:
+Alcohol Level: 91
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 14:
+Alcohol Level: 98
+Status: 🔒 Engine LOCKED (Alcohol level too high)
+
+Cycle 15:
+Alcohol Level: 05
+Status: 🔓 Engine UNLOCKED (Safe to drive)
+
+--------------------------------------------------------------
+Simulation completed using Keil uVision and 8051 MCU.
